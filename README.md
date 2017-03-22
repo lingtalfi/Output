@@ -44,3 +44,13 @@ the console screen.
 So, if you don't understand what I'm trying to explain, this probably means that you don't need this object.
 
 
+
+
+
+
+History Log
+------------------
+    
+- 1.0.0 -- 2017-03-22
+
+    - initial commit
