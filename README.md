@@ -51,6 +51,10 @@ So, if you don't understand what I'm trying to explain, this probably means that
 History Log
 ------------------
     
+- 1.2.0 -- 2017-03-26
+
+    - add WebProgramOutput
+    
 - 1.1.0 -- 2017-03-22
 
     - add ProgramOutput.setDampened
