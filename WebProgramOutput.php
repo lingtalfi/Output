@@ -18,6 +18,14 @@ class WebProgramOutput extends Output implements ProgramOutputInterface
         return new static();
     }
 
+    public function write($msg, $lbr = true)
+    {
+        echo $msg;
+        if (true === $lbr) {
+            echo '<br>';
+        }
+    }
+
     public function success($msg, $lbr = true)
     {
         $this->writeMessage('success', $msg, "green", $lbr);
