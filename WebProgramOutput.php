@@ -20,7 +20,7 @@ class WebProgramOutput extends Output implements ProgramOutputInterface
 
     public function write($msg, $lbr = true)
     {
-        echo $msg;
+        echo nl2br($msg);
         if (true === $lbr) {
             echo '<br>';
         }
