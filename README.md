@@ -51,6 +51,10 @@ So, if you don't understand what I'm trying to explain, this probably means that
 History Log
 ------------------
     
+- 1.4.0 -- 2017-03-31
+
+    - fix WebProgramOutput nl2br
+    
 - 1.3.0 -- 2017-03-29
 
     - fix WebProgramOutput br instead of PHP_EOL
