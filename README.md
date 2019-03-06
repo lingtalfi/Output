@@ -19,7 +19,7 @@ With the importer, do this:
 
 ```bash
 cd /your/app
-uni import Output
+uni import Ling/Output
 ```
 
 

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Output;
+namespace Ling\Output;
 
 class WebProgramOutput extends Output implements ProgramOutputInterface
 {
